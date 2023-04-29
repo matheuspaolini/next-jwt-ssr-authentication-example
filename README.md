@@ -1,4 +1,4 @@
-# Next JWT Authentication using Server Side Rendering Example
+# Next JWT Authentication using Server Side Rendering
 
 ## 💻 About the project
 
@@ -10,7 +10,11 @@
 ## 📥 Running the project
 
 ```bash
-$ git clone https://github.com/matheuspaolini/next-jwt-ssr-authentication-example.git && cd next-jwt-ssr-authentication-example
+$ git clone https://github.com/matheuspaolini/next-jwt-ssr-authentication-example.git
+```
+
+```bash
+$ cd next-jwt-ssr-authentication-example
 ```
 
 ```bash
