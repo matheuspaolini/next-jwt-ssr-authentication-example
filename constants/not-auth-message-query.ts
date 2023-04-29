@@ -1,0 +1,1 @@
+export const notAuthMessageQuery = '?notAuthMessage=You are not authenticated.';
